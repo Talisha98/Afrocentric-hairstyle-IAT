@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/Talisha98/Afrocentric-hairstyle-IAT/blob/main/IAT%20Code'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
